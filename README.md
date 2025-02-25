@@ -34,7 +34,7 @@
     list.addEnd("World");
     list.display(); // Output: Hello -> World -> End
     </pre>
-\    <h2>License</h2>
+    <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
 
 </body>
